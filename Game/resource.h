@@ -5,8 +5,6 @@
 #define IDD_ABOUTBOX                    100
 #define IDP_OLE_INIT_FAILED             100
 #define IDR_MAINFRAME                   128
-#define IDR_GameTYPE                    130
-#define IDR_JPG_LEVEL2                  310
 #define IDB_ENE_XIAHOU                  311
 #define IDB_NODE                        312
 #define IDB_PNG1                        313
@@ -58,12 +56,6 @@
 #define IDB_PNG47                       359
 #define IDB_PNG48                       360
 #define IDB_PNG49                       361
-#define IDB_PNG50                       362
-#define IDB_PNG51                       363
-#define IDB_PNG52                       364
-#define IDB_PNG53                       365
-#define IDB_PNG54                       366
-#define IDB_PNG55                       367
 #define IDR_WAVE1                       368
 #define IDR_WAVE2                       369
 #define IDR_WAVE3                       370
